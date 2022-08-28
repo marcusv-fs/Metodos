@@ -1,6 +1,6 @@
 # A Numerical Study on Sparse Learning of Interaction Laws in Homogeneous Multiparticle Systems
 
-#Resumo
+# Resumo
 Sistemas multiagentes são comuns na ciência e na engenharia. As interações que cada um desses agentes causam um no outro criam diversos padrões distintos, os quais podem ser observados na cristalização de partículas, agrupamentos de opiniões, movimentos de cardumes e outros. Contudo, as leis que regem os comportamentos ainda são misteriosas. Ainda hoje, não se entende como as interações individuais estão ligadas aos comportamentos coletivos.
 Uma crença comum na comunidade científica é de que os comportamentos complicados são consequência de interações simples. Para compreender melhor como isso ocorre, muitos estudos sobre distâncias de pares estão sendo feitas usando múltiplas equações com parâmetros simples e leis fundamentais da física, objetivando-se encontrar fórmulas que resultem em padrões parecidos com os observados no mundo real.
 Com o avanço tecnológico, a coleta de grandes quantidades de dados, que também são mais precisos, ficou mais simples e barata de ser realizada. Com isso, torna-se possível obter funções interativas com base em dados que não são apenas preditivas, mas que revelam padrões de comportamento dos agentes envolvidos. Técnicas como a Sparse Regression têm atraído bastante atenção ultimamente, pois vários sistemas complexos têm representações algébricas simples que correspondem a representações esparsas em espaços de funções não lineares de muitas dimensões.
